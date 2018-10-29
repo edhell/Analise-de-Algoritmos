@@ -1,0 +1,12 @@
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\bin\Debug\Analise de Algoritmos.exe.config
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\bin\Debug\Analise de Algoritmos.exe
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\bin\Debug\Analise de Algoritmos.pdb
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\bin\Debug\Analise de Algoritmos.xml
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\obj\Debug\Analise de Algoritmos.vbprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\obj\Debug\Analise_de_Algoritmos.Form1.resources
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\obj\Debug\Analise_de_Algoritmos.Resources.resources
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\obj\Debug\Analise de Algoritmos.vbproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\obj\Debug\Analise de Algoritmos.vbproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\obj\Debug\Analise de Algoritmos.exe
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\obj\Debug\Analise de Algoritmos.xml
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Analise de Algoritmos\Analise de Algoritmos\obj\Debug\Analise de Algoritmos.pdb
