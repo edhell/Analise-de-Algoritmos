@@ -1,5 +1,6 @@
 # Analise-de-Algoritmos
-Análise de Algoritmos - Trabalho 1 de Análise de Algoritmos - UNISC 2018
+Análise de Algoritmos - Trabalho 1 de Análise de Algoritmos - UNISC 2018<br>
+Mais em www.edinfo.com.br<br>
 
 Algoritmos de Busca:
   * Linear
